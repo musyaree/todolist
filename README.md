@@ -1,4 +1,3 @@
-# todolist
 # To-Do List Console Application
 
 A simple console-based task management system written in C++ to help users efficiently manage their daily tasks. This application allows users to add, view, update, and delete tasks with associated metadata like deadlines and priority levels.
@@ -15,7 +14,7 @@ A simple console-based task management system written in C++ to help users effic
 ## Technologies Used
 
 * **Language:** C++
-* **Library:** Standard C++ Library (including `<iostream>`, `<string>`, and optionally `<ctime>` for date handling)
+* **Library:** Standard C++ Library (including `<iostream>`, `<string>`, and `<vector>`)
 
 ## Project Structure
 
@@ -50,6 +49,3 @@ main.cpp             # Main program file containing class definitions and menu l
 Developed by Faeyzar Ahnaf Musyarri
 
 ---
-
-Feel free to modify and improve the project as you learn more about C++ and software development!
-
