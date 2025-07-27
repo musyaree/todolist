@@ -41,7 +41,7 @@ main.cpp             # Main program file containing class definitions and menu l
 
 * Support for saving and loading tasks from files (using file I/O)
 * GUI integration for a more interactive experience
-* Sorting tasks by priority or deadline
+* Sorting tasks by deadline
 * Deadline input using proper `ctime`-based date structures
 
 ## Author
