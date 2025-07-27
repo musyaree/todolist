@@ -18,7 +18,7 @@ A simple console-based task management system written in C++ to help users effic
 
 ## Project Structure
 * **Task** Class: Represents a single task and contains attributes and methods like marking as complete or displaying task info.
-* **TaskManager** Class:Manages the collection of tasks (using an array), handles user interactions, and implements all features.
+* **TaskManager** Class: Manages the collection of tasks (using an array), handles user interactions, and implements all features.
   
 ```
 main.cpp             # Main program file containing class definitions and menu logic
